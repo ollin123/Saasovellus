@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sää</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+
+  <video src="BackgroundVideo.mp4" autoplay muted loop id="bgVideo" ></video>
+
+  <div id="cityButtons"> <!--Napit eri kaupungeille ja id:t js event listenerille-->
+    <button id="helsinkiBtn">Helsinki, FI</button>
+    <button id="turkuBtn">Turku, FI</button>
+    <button id="tampereBtn">Tampere, FI</button>
+  </div>
+
+  <div id="weatherInfo">
+    <h2 id="cityName">Helsinki, FI</h2>
+    <h1 id="temperature">--</h1> <!--Tyhjä kohta tiedoille-->
+    <p class="label">Humidity</p>
+    <p id="humidity">--</p> <!--Tyhjä kohta tiedoille-->
+    <p class="label">Wind Speed</p>
+    <p id="windSpeed">--</p> <!--Tyhjä kohta tiedoille-->
+  </div>
+
+</body>
+</html>
