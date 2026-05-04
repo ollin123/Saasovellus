@@ -1,24 +1,17 @@
-# Projektin nimi ja tekijät
-Projektin nimi ja kaikki mukana olevat tekijät. 
+# Sääsovellus Olli Niemi
 
 ## Verkkolinkit:
-Pääset julkaistuun sovellukseen käsiksi osoitteessa [google.com](https://google.com)
-Linkki projektin videoesittelyyn [google.com](https://google.com)
+Pääset julkaistuun sovellukseen käsiksi osoitteessa [Sääsovellus](deft-heliotrope-49c119.netlify.app)
 
-## Työn jakautuminen 
-Miten työmäärä jaettiin? Kuka teki mitä? Miten yhteistyö sujui?
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä
-Mielestäni onnistuin...
-Parantamista olisi...
-Sovelluksesta jäi puuttumaan...
-Koen, että olen oppinut...
-Epäselväksi jäi...
-Antaisin itselleni pisteitä seuraavasti: xx/yy p
+Mielestäni onnistuin sovelluksen ulkonäössä
+Sovelluksesta voisi olla enemmän kaupunkeja ja tietoja saatavilla
+Koen, että olen oppinut Api-rajapinnoista ja niistä tulevien tietojen hyödyntämisestä. Lisäksi muistiin palautui esimerkiksi eventListenerit.
+Antaisin itselleni pisteitä seuraavasti: 8/10 p
 
 ## Palaute opettajalle kurssista sekä itse opetuksesta tähän saakka
-Kurssi sekä lähiopetus ovat tuntuneet... 
-Oppimistani tukisi jos...
+Kurssi on tuntunut mukavalta ja kiinnostavalta! Kiitos :)
 
 
 ## Sisällysluettelo:
@@ -33,32 +26,29 @@ Oppimistani tukisi jos...
 - [Lisenssi](#lisenssi)
 
 ## Tietoja sovelluksesta
-[Projektin nimi] on sovellus, joka ...
+Sääsovellus on sovellus, josta saa mielestäni tärkeimmät säätiedot nopeasti kolmesta suomen kaupungista, Helsingistä, Turusta ja Tampereelta.
 
 ## Tunnetut virheet/bugit
-Kerro jos tiedät sovelluksessa olevan jotain, mikä ei toimi tai toimii heikosti
+Ei ole
 
 ## Kuvakaappaukset
-Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta  
-`![Kirjoittaminen](https://unsplash.com/photos/VBPzRgd7gfc)`
-
-Kuva: [Kelly Sikkema](https://unsplash.com/@kellysikkema)
+[Sääsovellus](ScreenshotSaasovellus.png)
 
 ## Teknologiat
 Kuvaa, mitä teknologioita käytettiin ja mikä oli niiden rooli projektissasi.  
-Käytin seuraavia teknologioita: `html`, `css`, ...
+Html: Sovelluksen rakentamiseen
+css: Tyylitykseen
+JavaScript, Api-rajapinnat toimintojen kirjoittamiseen ja tietojen hakuun.
 
 ## Asennus
 Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi:  
 - lataa kaikki tiedostot ja avaa index.html selaimessasi  
-- lataa tai kloonaa repositorio  
-- suorita `npm install`  
-- ...
 
 ## Kiitokset
 Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja koodauksen aikana ja kerro, miten ne auttoivat sinua.  
-- [John Doe](johndoe.com)  
-- [Beginners guide to BEM](link-goes-here.com)  
+- [Mikan materiaalit](https://mika-stenberg.gitbook.io/web-sovelluksia-javascriptin-avulla/6.-ajax/untitled)  
+- [Web Dev Simplified](https://www.youtube.com/watch?v=cuEtnrL9-H0)
+- Claude auttoi osassa koodia sen kirjoituksessa, virheiden korjauksessa, jos itseltäni se ei onnistunut. Se auttoi myös selittämään eri käsitteet auki.
 
 ## Lisenssi
 Valitse projektille lisenssi seuraamalla tätä [opasta](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
