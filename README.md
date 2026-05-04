@@ -2,6 +2,7 @@
 
 ## Verkkolinkit:
 Pääset julkaistuun sovellukseen käsiksi osoitteessa [Sääsovellus](deft-heliotrope-49c119.netlify.app)
+deft-heliotrope-49c119.netlify.app
 
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä
@@ -51,6 +52,5 @@ Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse my�
 - Claude auttoi osassa koodia sen kirjoituksessa, virheiden korjauksessa, jos itseltäni se ei onnistunut. Se auttoi myös selittämään eri käsitteet auki.
 
 ## Lisenssi
-Valitse projektille lisenssi seuraamalla tätä [opasta](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
 
-Esimerkki: MIT-lisenssi @ [tekijä](author.com)
+[MIT-License](LICENSE.md)
