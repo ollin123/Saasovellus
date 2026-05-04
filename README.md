@@ -2,7 +2,7 @@
 
 ## Verkkolinkit:
 Pääset julkaistuun sovellukseen käsiksi osoitteessa [Sääsovellus](deft-heliotrope-49c119.netlify.app)
-deft-heliotrope-49c119.netlify.app
+- Kopio: deft-heliotrope-49c119.netlify.app
 
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä
